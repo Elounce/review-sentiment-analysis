@@ -2,3 +2,4 @@ text,label,model_prediction
 "Ужасное качество, всё сломалось через неделю, вернул деньги.",negative,positive
 "Полный кринж, а не товар.",negative,positive
 "Работает как надо, претензий нет.",neutral,positive
+"В талии ремень не нужен, не коротки и не длинные а самый раз",neutral,negative

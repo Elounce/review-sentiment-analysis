@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+matplotlib
+joblib
+clean-text[gpl]
+pymorphy2
+pymorphy3
+streamlit
+wordcloud
